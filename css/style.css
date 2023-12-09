@@ -14,7 +14,7 @@
 :root {
     --bg-color: #fdfdfd;
     --text-color: #333;
-    --main-color: #BBBBBB;
+    --main-color: #008B8B;
     --white-color: #fdfdfd;
     --shadow-color: rgba(0, 0, 0, .2);
 }
@@ -288,7 +288,8 @@ section {
 
 .home-img img {
     position: absolute;
-    bottom: 0;
+    
+    bottom: 50px;
     right: 20px;
     pointer-events: none;
     max-width: 500px;
