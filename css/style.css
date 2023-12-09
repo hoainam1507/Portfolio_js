@@ -289,7 +289,7 @@ section {
 .home-img img {
     position: absolute;
     
-    bottom: 100px;
+    bottom: 145px;
     right: 40px;
     pointer-events: none;
     max-width: 500px;
@@ -939,4 +939,7 @@ span {
 }
 img {
     border-radius: 20px;
+}
+social-media1 {
+    align-items: center;
 }
